@@ -38,6 +38,12 @@ https://huggingface.co/PleIAs/Pleias-RAG-1B?utm_source=chatgpt.com
 
 # 我接下來預計測的方向
 
+## 模型
+
 https://huggingface.co/EpistemeAI/ReasoningCore-3B-RE1-V2-RAG
 
 https://github.com/MiuLab/Taiwan-LLM
+
+## issue
+
+token too small ?
