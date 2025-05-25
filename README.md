@@ -35,3 +35,9 @@ https://huggingface.co/PleIAs/Pleias-RAG-1B?utm_source=chatgpt.com
 ## 缺點
 
 有中文翻英文(看CODE)https://github.com/emawnag/afv2/blob/main/drug_ad_violation_rag.py
+
+# 我接下來預計測的方向
+
+https://huggingface.co/EpistemeAI/ReasoningCore-3B-RE1-V2-RAG
+
+https://github.com/MiuLab/Taiwan-LLM
